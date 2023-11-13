@@ -1,0 +1,5 @@
+tensorflow 
+numpy
+icecream
+opencv-python
+Cython
