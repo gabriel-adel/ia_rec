@@ -8,6 +8,7 @@ Projeto para criação de uma ia que detecte objetos e pessoas usando webcam.
     pip install -r requirements.txt
 ```
 
+crie uma pasta **tensor** para compilar
 ## Para compilar 
 ```bash
     python setup.py build_ext --inplace
